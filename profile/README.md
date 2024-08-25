@@ -1,8 +1,8 @@
+# Welcome to JoyLabs.space!
+
 <p align="center">
   <img width=750 src="https://github.com/JoyLabs-space/.github/blob/main/logo/JoyLabsLogoLong.png">  
 </p>
-
-## Welcome to JoyLabs-Space!
 
 <!--
 
