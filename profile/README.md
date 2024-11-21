@@ -1,9 +1,11 @@
 # Welcome to JoyLabs.space!
 
 <p align="center">
-  <img width=750 src="https://github.com/JoyLabs-space/.github/blob/main/logo/JoyLabsLogoLong.png">  
+  <img width=550 src="https://github.com/JoyLabs-space/.github/blob/main/logo/JoyLabsLogoLong.png">  
 </p>
-
+<h2>기록에 즐거움을 더하다. JoyLabs입니다.</h2>
+JoyLabs는 To-Do 리스트를 기반으로 자기소개서를 생성해드리는 서비스를 제공하고 있습니다.<br><br>
+자세한 사항은 [joylabs.space](www.joylabs.space)(on repair) 참고해주시면 감사하겠습니다!
 <!--
 
 **Here are some ideas to get you started:**
