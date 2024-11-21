@@ -8,7 +8,7 @@
   JoyLabs입니다.
 </h2>
 
-JoyLabs는 To-Do 리스트를 기반으로 자기소개서를 생성해드리는 서비스를 제공하고 있습니다.<br><br>
+JoyLabs는 To-Do 리스트를 기반으로 자기소개서를 생성해드리는 서비스를 제공하고 있습니다.<br>
 자세한 사항은 저희 [홈페이지](https://www.joylabs.space) (on repair) 참고해주시면 감사하겠습니다!
 <!--
 
