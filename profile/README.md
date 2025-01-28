@@ -4,8 +4,8 @@
   <img width=550 src="https://github.com/JoyLabs-space/.github/blob/main/logo/JoyLabsLogoLong.png">  
 </p>
 <h2 align="center">
-  기록에 즐거움을 더하다.<br>
-  JoyLabs입니다.
+  기록을 가치로.<br>
+  JoyLabs
 </h2>
 
 JoyLabs는 To-Do 리스트를 기반으로 자기소개서를 생성해드리는 서비스를 제공하고 있습니다.<br>
